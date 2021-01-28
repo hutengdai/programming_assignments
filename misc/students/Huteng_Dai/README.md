@@ -1,9 +1,7 @@
-Firstname Lastname's dropbox
+Huteng Dai's dropbox
 ============================
 
-This is an example. 
-
-- Name: Firstname Lastname 
-- Email: my_email@email.com
-- Website: www.github.com
+- Name: Huteng Dai 
+- Email: hutengdai@gmail.com
+- Website: www.hutengdai.com
 - Goal: To learn R
